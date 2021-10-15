@@ -1,0 +1,7 @@
+name: NoTotemDrop
+version: ${project.version}
+main: me.olliejw.nototemdrop.NoTotemDrop
+authors: [ OllieJW, London#4609 ]
+api-version: 1.17
+description: Simple plugin to remove Totems from mob drops
+website: https://olliejw.me
